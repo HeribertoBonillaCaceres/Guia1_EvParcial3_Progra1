@@ -1,0 +1,13 @@
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\bin\Debug\Guia1_EP3_Progra1.exe.config
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\bin\Debug\Guia1_EP3_Progra1.exe
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\bin\Debug\Guia1_EP3_Progra1.pdb
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.csprojResolveAssemblyReference.cache
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.MainForm.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.csproj.GenerateResource.Cache
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.exe
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.pdb
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.Ex1Gui1.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.Ex2Gui1.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.Ex3Gui1.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.Ex4Gui1.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia1_EP3_Progra1\Guia1_EP3_Progra1\obj\Debug\Guia1_EP3_Progra1.Ex5Gui1.resources
